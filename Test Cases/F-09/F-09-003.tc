@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek login dengan data tidak valid</description>
+   <name>F-09-003</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>E RUDIYANSYAH MAHENDRA NUR ROHMAN</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>E RUDIYANSYAH MAHENDRA NUR ROHMAN</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>e9d7ed3a-d4aa-46c5-823a-b87bd1e75bc2</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>e9d7ed3a-d4aa-46c5-823a-b87bd1e75bc2</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>adb3a405-a2ba-403c-b341-3c55cb2a0e58</testCaseGuid>
+</TestCaseEntity>
