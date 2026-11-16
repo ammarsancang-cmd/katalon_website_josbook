@@ -3,7 +3,11 @@
    <description></description>
    <name>katalon_website_josbook</name>
    <tag></tag>
+<<<<<<< HEAD
    <UUID>ee29212b-1635-4be9-b2d2-c5b90ee2304f</UUID>
+=======
+   <UUID>a76a8a30-b0e0-4ac2-abb1-8e5a6f6600f0</UUID>
+>>>>>>> branch 'main' of https://github.com/ammarsancang-cmd/katalon_website_josbook.git
    <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>11.7.0</createdVersion>
    <freeLicense>false</freeLicense>

@@ -18,3 +18,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('http://127.0.0.1:8000/login')
+
+WebUI.setText(findTestObject('TC-F09-001/Page_Masuk  JosBook/input_Masukkan Nama Pengguna atau NIS_NIP'), '886667357')
+
+WebUI.setEncryptedText(findTestObject('TC-F09-001/Page_Masuk  JosBook/input_Masukkan kata sandi Anda'), '/rWopLbhiVOjOkmm+nUvaw==')
+
+WebUI.click(findTestObject('TC-F09-001/Page_Masuk  JosBook/span_'))
+
+WebUI.click(findTestObject('TC-F09-001/Page_Masuk  JosBook/input_Ingat saya'))
+
+WebUI.click(findTestObject('TC-F09-001/Page_Masuk  JosBook/button_Masuk'))
+
